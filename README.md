@@ -1,2 +1,0 @@
-# Mesh-Stack
-test repository
